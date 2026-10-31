@@ -1,0 +1,370 @@
+{
+  "recipes": [
+    {
+      "id": "chicken_buckwheat",
+      "name": "Курица с гречкой",
+      "servings_base": 1,
+      "time_min": 40,
+      "tags": ["мясо", "крупа", "домашняя"],
+      "ingredients": [
+        {"product": "куриная грудка", "type": "main", "grams_per_serving": 150},
+        {"product": "гречка", "type": "main", "grams_per_serving": 80},
+        {"product": "лук", "type": "main", "grams_per_serving": 30},
+        {"product": "морковь", "type": "main", "grams_per_serving": 30},
+        {"product": "масло для жарки", "type": "pantry"},
+        {"product": "соль", "type": "pantry"},
+        {"product": "специи", "type": "pantry"}
+      ]
+    },
+    {
+      "id": "chicken_thighs_potato",
+      "name": "Куриные бёдра с картофелем",
+      "servings_base": 1,
+      "time_min": 40,
+      "tags": ["мясо", "домашняя"],
+      "ingredients": [
+        {"product": "куриное бедро", "type": "main", "grams_per_serving": 180},
+        {"product": "картофель", "type": "main", "grams_per_serving": 200},
+        {"product": "лук", "type": "main", "grams_per_serving": 40},
+        {"product": "чеснок", "type": "main", "grams_per_serving": 5},
+        {"product": "масло для жарки", "type": "pantry"},
+        {"product": "соль", "type": "pantry"},
+        {"product": "специи", "type": "pantry"}
+      ]
+    },
+    {
+      "id": "pasta_carbonara_classic",
+      "name": "Паста карбонара (классическая)",
+      "servings_base": 1,
+      "time_min": 25,
+      "tags": ["паста", "мясо"],
+      "ingredients": [
+        {"product": "макароны", "type": "main", "grams_per_serving": 100},
+        {"product": "бекон", "type": "main", "grams_per_serving": 70},
+        {"product": "яйца", "type": "main", "grams_per_serving": 50},
+        {"product": "сыр твёрдый", "type": "main", "grams_per_serving": 25},
+        {"product": "масло для жарки", "type": "pantry"},
+        {"product": "соль", "type": "pantry"},
+        {"product": "специи", "type": "pantry"}
+      ]
+    },
+    {
+      "id": "pasta_carbonara_simple",
+      "name": "Паста карбонара (упрощённая)",
+      "servings_base": 1,
+      "time_min": 25,
+      "tags": ["паста", "мясо", "быстро"],
+      "ingredients": [
+        {"product": "макароны", "type": "main", "grams_per_serving": 100},
+        {"product": "сосиски", "type": "main", "grams_per_serving": 80},
+        {"product": "яйца", "type": "main", "grams_per_serving": 50},
+        {"product": "сыр твёрдый", "type": "main", "grams_per_serving": 20},
+        {"product": "масло для жарки", "type": "pantry"},
+        {"product": "соль", "type": "pantry"},
+        {"product": "специи", "type": "pantry"}
+      ]
+    },
+    {
+      "id": "pasta_mince_home",
+      "name": "Макароны с фаршем по-домашнему",
+      "servings_base": 1,
+      "time_min": 35,
+      "tags": ["паста", "мясо", "домашняя"],
+      "ingredients": [
+        {"product": "макароны", "type": "main", "grams_per_serving": 100},
+        {"product": "фарш свиной", "type": "main", "grams_per_serving": 120},
+        {"product": "лук", "type": "main", "grams_per_serving": 40},
+        {"product": "морковь", "type": "main", "grams_per_serving": 40},
+        {"product": "томатная паста", "type": "main", "grams_per_serving": 20},
+        {"product": "масло для жарки", "type": "pantry"},
+        {"product": "соль", "type": "pantry"},
+        {"product": "специи", "type": "pantry"}
+      ]
+    },
+    {
+      "id": "rice_chicken_veg",
+      "name": "Рис с курицей и овощами",
+      "servings_base": 1,
+      "time_min": 40,
+      "tags": ["мясо", "крупа", "домашняя"],
+      "ingredients": [
+        {"product": "рис", "type": "main", "grams_per_serving": 80},
+        {"product": "куриная грудка", "type": "main", "grams_per_serving": 150},
+        {"product": "морковь", "type": "main", "grams_per_serving": 50},
+        {"product": "лук", "type": "main", "grams_per_serving": 30},
+        {"product": "перец болгарский", "type": "main", "grams_per_serving": 50},
+        {"product": "масло для жарки", "type": "pantry"},
+        {"product": "соль", "type": "pantry"},
+        {"product": "специи", "type": "pantry"}
+      ]
+    },
+    {
+      "id": "buckwheat_mince",
+      "name": "Гречка с фаршем",
+      "servings_base": 1,
+      "time_min": 35,
+      "tags": ["мясо", "крупа", "домашняя"],
+      "ingredients": [
+        {"product": "гречка", "type": "main", "grams_per_serving": 80},
+        {"product": "фарш куриный", "type": "main", "grams_per_serving": 120},
+        {"product": "лук", "type": "main", "grams_per_serving": 40},
+        {"product": "морковь", "type": "main", "grams_per_serving": 40},
+        {"product": "масло для жарки", "type": "pantry"},
+        {"product": "соль", "type": "pantry"},
+        {"product": "специи", "type": "pantry"}
+      ]
+    },
+    {
+      "id": "potato_sausages",
+      "name": "Картофель с сосисками",
+      "servings_base": 1,
+      "time_min": 35,
+      "tags": ["мясо", "домашняя"],
+      "ingredients": [
+        {"product": "картофель", "type": "main", "grams_per_serving": 250},
+        {"product": "сосиски", "type": "main", "grams_per_serving": 100},
+        {"product": "лук", "type": "main", "grams_per_serving": 40},
+        {"product": "масло для жарки", "type": "pantry"},
+        {"product": "соль", "type": "pantry"},
+        {"product": "специи", "type": "pantry"}
+      ]
+    },
+    {
+      "id": "macaroni_cheese",
+      "name": "Макароны с сыром",
+      "servings_base": 1,
+      "time_min": 20,
+      "tags": ["паста", "вегетарианское", "быстро"],
+      "ingredients": [
+        {"product": "макароны", "type": "main", "grams_per_serving": 100},
+        {"product": "сыр твёрдый", "type": "main", "grams_per_serving": 40},
+        {"product": "масло сливочное", "type": "main", "grams_per_serving": 10},
+        {"product": "молоко", "type": "main", "grams_per_serving": 50},
+        {"product": "соль", "type": "pantry"}
+      ]
+    },
+    {
+      "id": "omelette_cheese_tomato",
+      "name": "Омлет с сыром и помидорами",
+      "servings_base": 1,
+      "time_min": 15,
+      "tags": ["яйца", "вегетарианское", "быстро"],
+      "ingredients": [
+        {"product": "яйца", "type": "main", "grams_per_serving": 100},
+        {"product": "сыр твёрдый", "type": "main", "grams_per_serving": 30},
+        {"product": "помидор", "type": "main", "grams_per_serving": 80},
+        {"product": "молоко", "type": "main", "grams_per_serving": 30},
+        {"product": "масло для жарки", "type": "pantry"},
+        {"product": "соль", "type": "pantry"}
+      ]
+    },
+    {
+      "id": "baked_pollock_rice",
+      "name": "Минтай в духовке с рисом",
+      "servings_base": 1,
+      "time_min": 40,
+      "tags": ["рыба", "крупа", "домашняя"],
+      "ingredients": [
+        {"product": "рыба белая", "type": "main", "grams_per_serving": 180},
+        {"product": "рис", "type": "main", "grams_per_serving": 80},
+        {"product": "лук", "type": "main", "grams_per_serving": 40},
+        {"product": "морковь", "type": "main", "grams_per_serving": 40},
+        {"product": "масло для жарки", "type": "pantry"},
+        {"product": "соль", "type": "pantry"},
+        {"product": "специи", "type": "pantry"}
+      ]
+    },
+    {
+      "id": "salmon_potato_bake",
+      "name": "Лосось с картофелем в духовке",
+      "servings_base": 1,
+      "time_min": 40,
+      "tags": ["рыба", "домашняя"],
+      "ingredients": [
+        {"product": "лосось", "type": "main", "grams_per_serving": 150},
+        {"product": "картофель", "type": "main", "grams_per_serving": 200},
+        {"product": "лук", "type": "main", "grams_per_serving": 30},
+        {"product": "масло для жарки", "type": "pantry"},
+        {"product": "соль", "type": "pantry"},
+        {"product": "специи", "type": "pantry"}
+      ]
+    },
+    {
+      "id": "lentil_soup",
+      "name": "Чечевичный суп",
+      "servings_base": 1,
+      "time_min": 40,
+      "tags": ["суп", "вегетарианское", "домашняя"],
+      "ingredients": [
+        {"product": "чечевица", "type": "main", "grams_per_serving": 70},
+        {"product": "картофель", "type": "main", "grams_per_serving": 100},
+        {"product": "лук", "type": "main", "grams_per_serving": 30},
+        {"product": "морковь", "type": "main", "grams_per_serving": 40},
+        {"product": "томатная паста", "type": "main", "grams_per_serving": 15},
+        {"product": "масло для жарки", "type": "pantry"},
+        {"product": "соль", "type": "pantry"},
+        {"product": "специи", "type": "pantry"}
+      ]
+    },
+    {
+      "id": "chicken_noodle_soup",
+      "name": "Куриный суп с лапшой",
+      "servings_base": 1,
+      "time_min": 40,
+      "tags": ["суп", "мясо", "домашняя"],
+      "ingredients": [
+        {"product": "куриное бедро", "type": "main", "grams_per_serving": 120},
+        {"product": "макароны", "type": "main", "grams_per_serving": 40},
+        {"product": "картофель", "type": "main", "grams_per_serving": 100},
+        {"product": "морковь", "type": "main", "grams_per_serving": 40},
+        {"product": "лук", "type": "main", "grams_per_serving": 30},
+        {"product": "масло для жарки", "type": "pantry"},
+        {"product": "соль", "type": "pantry"},
+        {"product": "специи", "type": "pantry"}
+      ]
+    },
+    {
+      "id": "tuna_egg_salad",
+      "name": "Салат с тунцом и яйцом",
+      "servings_base": 1,
+      "time_min": 15,
+      "tags": ["салат", "рыба", "быстро"],
+      "ingredients": [
+        {"product": "тунец консервированный", "type": "main", "grams_per_serving": 80},
+        {"product": "яйца", "type": "main", "grams_per_serving": 100},
+        {"product": "огурец", "type": "main", "grams_per_serving": 80},
+        {"product": "зелень", "type": "main", "grams_per_serving": 15},
+        {"product": "майонез", "type": "main", "grams_per_serving": 20},
+        {"product": "соль", "type": "pantry"}
+      ]
+    },
+    {
+      "id": "tuna_pasta",
+      "name": "Макароны с тунцом",
+      "servings_base": 1,
+      "time_min": 25,
+      "tags": ["паста", "рыба", "быстро"],
+      "ingredients": [
+        {"product": "макароны", "type": "main", "grams_per_serving": 100},
+        {"product": "тунец консервированный", "type": "main", "grams_per_serving": 80},
+        {"product": "лук", "type": "main", "grams_per_serving": 30},
+        {"product": "томатная паста", "type": "main", "grams_per_serving": 20},
+        {"product": "масло для жарки", "type": "pantry"},
+        {"product": "соль", "type": "pantry"},
+        {"product": "специи", "type": "pantry"}
+      ]
+    },
+    {
+      "id": "scrambled_eggs_sausage",
+      "name": "Яичница с сосисками",
+      "servings_base": 1,
+      "time_min": 15,
+      "tags": ["яйца", "мясо", "быстро"],
+      "ingredients": [
+        {"product": "яйца", "type": "main", "grams_per_serving": 100},
+        {"product": "сосиски", "type": "main", "grams_per_serving": 80},
+        {"product": "помидор", "type": "main", "grams_per_serving": 60},
+        {"product": "масло для жарки", "type": "pantry"},
+        {"product": "соль", "type": "pantry"},
+        {"product": "специи", "type": "pantry"}
+      ]
+    },
+    {
+      "id": "fish_cutlets_potato",
+      "name": "Рыбные котлеты с картофелем",
+      "servings_base": 1,
+      "time_min": 40,
+      "tags": ["рыба", "домашняя"],
+      "ingredients": [
+        {"product": "рыба белая", "type": "main", "grams_per_serving": 150},
+        {"product": "яйца", "type": "main", "grams_per_serving": 25},
+        {"product": "мука", "type": "main", "grams_per_serving": 20},
+        {"product": "лук", "type": "main", "grams_per_serving": 30},
+        {"product": "картофель", "type": "main", "grams_per_serving": 200},
+        {"product": "масло для жарки", "type": "pantry"},
+        {"product": "соль", "type": "pantry"},
+        {"product": "специи", "type": "pantry"}
+      ]
+    },
+    {
+      "id": "bean_soup",
+      "name": "Суп с фасолью",
+      "servings_base": 1,
+      "time_min": 35,
+      "tags": ["суп", "вегетарианское", "домашняя"],
+      "ingredients": [
+        {"product": "фасоль консервированная", "type": "main", "grams_per_serving": 120},
+        {"product": "картофель", "type": "main", "grams_per_serving": 100},
+        {"product": "лук", "type": "main", "grams_per_serving": 30},
+        {"product": "морковь", "type": "main", "grams_per_serving": 40},
+        {"product": "масло для жарки", "type": "pantry"},
+        {"product": "соль", "type": "pantry"},
+        {"product": "специи", "type": "pantry"}
+      ]
+    },
+    {
+      "id": "eggs_cheese_sandwich",
+      "name": "Горячий бутерброд с яйцом и сыром",
+      "servings_base": 1,
+      "time_min": 15,
+      "tags": ["яйца", "быстро", "вегетарианское"],
+      "ingredients": [
+        {"product": "хлеб", "type": "main", "grams_per_serving": 80},
+        {"product": "яйца", "type": "main", "grams_per_serving": 50},
+        {"product": "сыр твёрдый", "type": "main", "grams_per_serving": 30},
+        {"product": "помидор", "type": "main", "grams_per_serving": 50},
+        {"product": "масло для жарки", "type": "pantry"},
+        {"product": "соль", "type": "pantry"}
+      ]
+    },
+    {
+      "id": "buckwheat_mushrooms_onion",
+      "name": "Гречка с грибами и луком",
+      "servings_base": 1,
+      "time_min": 30,
+      "tags": ["крупа", "вегетарианское", "домашняя"],
+      "ingredients": [
+        {"product": "гречка", "type": "main", "grams_per_serving": 80},
+        {"product": "грибы", "type": "main", "grams_per_serving": 100},
+        {"product": "лук", "type": "main", "grams_per_serving": 40},
+        {"product": "морковь", "type": "main", "grams_per_serving": 30},
+        {"product": "масло для жарки", "type": "pantry"},
+        {"product": "соль", "type": "pantry"},
+        {"product": "специи", "type": "pantry"}
+      ]
+    },
+    {
+      "id": "vegetable_stew_potato",
+      "name": "Овощное рагу с картофелем",
+      "servings_base": 1,
+      "time_min": 40,
+      "tags": ["вегетарианское", "домашняя"],
+      "ingredients": [
+        {"product": "картофель", "type": "main", "grams_per_serving": 150},
+        {"product": "кабачок", "type": "main", "grams_per_serving": 100},
+        {"product": "перец болгарский", "type": "main", "grams_per_serving": 50},
+        {"product": "морковь", "type": "main", "grams_per_serving": 40},
+        {"product": "лук", "type": "main", "grams_per_serving": 30},
+        {"product": "помидор", "type": "main", "grams_per_serving": 60},
+        {"product": "масло для жарки", "type": "pantry"},
+        {"product": "соль", "type": "pantry"},
+        {"product": "специи", "type": "pantry"}
+      ]
+    },
+    {
+      "id": "cabbage_egg_quick",
+      "name": "Быстрая капуста с яйцом",
+      "servings_base": 1,
+      "time_min": 20,
+      "tags": ["вегетарианское", "быстро"],
+      "ingredients": [
+        {"product": "капуста", "type": "main", "grams_per_serving": 150},
+        {"product": "яйца", "type": "main", "grams_per_serving": 50},
+        {"product": "лук", "type": "main", "grams_per_serving": 30},
+        {"product": "масло для жарки", "type": "pantry"},
+        {"product": "соль", "type": "pantry"},
+        {"product": "специи", "type": "pantry"}
+      ]
+    }
+  ]
+}

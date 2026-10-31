@@ -1,0 +1,305 @@
+{
+  "store_id": "chizhik_test_001",
+  "store_name": "Чижик (тестовый)",
+  "updated_at": "2026-10-31T12:00:00",
+  "note": "Цены примерные, для тестирования логики. Не для продакшена.",
+  "products": [
+    {
+      "product_id": "chizhik_chicken_breast_700",
+      "name": "Филе куриное охлаждённое 700г",
+      "product": "куриная грудка",
+      "pack_size": 700,
+      "unit_count": null,
+      "price": 259.0,
+      "in_stock": true
+    },
+    {
+      "product_id": "chizhik_chicken_thigh_900",
+      "name": "Бедро куриное охлаждённое 900г",
+      "product": "куриное бедро",
+      "pack_size": 900,
+      "unit_count": null,
+      "price": 219.0,
+      "in_stock": true
+    },
+    {
+      "product_id": "chizhik_bacon_200",
+      "name": "Бекон сырокопчёный 200г",
+      "product": "бекон",
+      "pack_size": 200,
+      "unit_count": null,
+      "price": 145.0,
+      "in_stock": true
+    },
+    {
+      "product_id": "chizhik_sausages_400",
+      "name": "Сосиски молочные 400г",
+      "product": "сосиски",
+      "pack_size": 400,
+      "unit_count": null,
+      "price": 189.0,
+      "in_stock": true
+    },
+    {
+      "product_id": "chizhik_mince_pork_500",
+      "name": "Фарш свиной домашний 500г",
+      "product": "фарш свиной",
+      "pack_size": 500,
+      "unit_count": null,
+      "price": 229.0,
+      "in_stock": true
+    },
+    {
+      "product_id": "chizhik_mince_chicken_500",
+      "name": "Фарш куриный 500г",
+      "product": "фарш куриный",
+      "pack_size": 500,
+      "unit_count": null,
+      "price": 179.0,
+      "in_stock": true
+    },
+    {
+      "product_id": "chizhik_eggs_10",
+      "name": "Яйца куриные С1 10 шт",
+      "product": "яйца",
+      "pack_size": 500,
+      "unit_count": 10,
+      "price": 99.0,
+      "in_stock": true
+    },
+    {
+      "product_id": "chizhik_cheese_russian_200",
+      "name": "Сыр Российский 45% 200г",
+      "product": "сыр твёрдый",
+      "pack_size": 200,
+      "unit_count": null,
+      "price": 189.0,
+      "in_stock": true
+    },
+    {
+      "product_id": "chizhik_milk_svetaevo_925",
+      "name": "Молоко СВЕТАЕВО пастеризованное 2,5% 925мл",
+      "product": "молоко",
+      "pack_size": 925,
+      "unit_count": null,
+      "price": 89.0,
+      "in_stock": true
+    },
+    {
+      "product_id": "chizhik_butter_180",
+      "name": "Масло сливочное 72,5% 180г",
+      "product": "масло сливочное",
+      "pack_size": 180,
+      "unit_count": null,
+      "price": 169.0,
+      "in_stock": true
+    },
+    {
+      "product_id": "chizhik_buckwheat_800",
+      "name": "Гречка ядрица 800г",
+      "product": "гречка",
+      "pack_size": 800,
+      "unit_count": null,
+      "price": 75.0,
+      "in_stock": true
+    },
+    {
+      "product_id": "chizhik_rice_800",
+      "name": "Рис круглозёрный 800г",
+      "product": "рис",
+      "pack_size": 800,
+      "unit_count": null,
+      "price": 89.0,
+      "in_stock": true
+    },
+    {
+      "product_id": "chizhik_pasta_450",
+      "name": "Макароны спагетти 450г",
+      "product": "макароны",
+      "pack_size": 450,
+      "unit_count": null,
+      "price": 69.0,
+      "in_stock": true
+    },
+    {
+      "product_id": "chizhik_potato_1000",
+      "name": "Картофель Египет 1кг",
+      "product": "картофель",
+      "pack_size": 1000,
+      "unit_count": null,
+      "price": 69.0,
+      "in_stock": true
+    },
+    {
+      "product_id": "chizhik_onion_1000",
+      "name": "Лук репчатый 1кг",
+      "product": "лук",
+      "pack_size": 1000,
+      "unit_count": null,
+      "price": 45.0,
+      "in_stock": true
+    },
+    {
+      "product_id": "chizhik_carrot_1000",
+      "name": "Морковь мытая 1кг",
+      "product": "морковь",
+      "pack_size": 1000,
+      "unit_count": null,
+      "price": 49.0,
+      "in_stock": true
+    },
+    {
+      "product_id": "chizhik_garlic_100",
+      "name": "Чеснок 100г",
+      "product": "чеснок",
+      "pack_size": 100,
+      "unit_count": null,
+      "price": 39.0,
+      "in_stock": true
+    },
+    {
+      "product_id": "chizhik_tomato_500",
+      "name": "Помидоры 500г",
+      "product": "помидор",
+      "pack_size": 500,
+      "unit_count": null,
+      "price": 119.0,
+      "in_stock": true
+    },
+    {
+      "product_id": "chizhik_pepper_500",
+      "name": "Перец болгарский 500г",
+      "product": "перец болгарский",
+      "pack_size": 500,
+      "unit_count": null,
+      "price": 139.0,
+      "in_stock": true
+    },
+    {
+      "product_id": "chizhik_tomato_paste_200",
+      "name": "Паста томатная 200г",
+      "product": "томатная паста",
+      "pack_size": 200,
+      "unit_count": null,
+      "price": 79.0,
+      "in_stock": true
+    },
+    {
+      "product_id": "chizhik_pollock_700",
+      "name": "Минтай свежемороженый 700г",
+      "product": "рыба белая",
+      "pack_size": 700,
+      "unit_count": null,
+      "price": 189.0,
+      "in_stock": true
+    },
+    {
+      "product_id": "chizhik_salmon_400",
+      "name": "Лосось охлаждённый 400г",
+      "product": "лосось",
+      "pack_size": 400,
+      "unit_count": null,
+      "price": 449.0,
+      "in_stock": true
+    },
+    {
+      "product_id": "chizhik_tuna_can_185",
+      "name": "Тунец консервированный в собственном соку 185г",
+      "product": "тунец консервированный",
+      "pack_size": 185,
+      "unit_count": 1,
+      "price": 129.0,
+      "in_stock": true
+    },
+    {
+      "product_id": "chizhik_lentil_500",
+      "name": "Чечевица красная 500г",
+      "product": "чечевица",
+      "pack_size": 500,
+      "unit_count": null,
+      "price": 89.0,
+      "in_stock": true
+    },
+    {
+      "product_id": "chizhik_beans_can_400",
+      "name": "Фасоль консервированная красная 400г",
+      "product": "фасоль консервированная",
+      "pack_size": 400,
+      "unit_count": 1,
+      "price": 79.0,
+      "in_stock": true
+    },
+    {
+      "product_id": "chizhik_flour_2000",
+      "name": "Мука пшеничная высший сорт 2кг",
+      "product": "мука",
+      "pack_size": 2000,
+      "unit_count": null,
+      "price": 99.0,
+      "in_stock": true
+    },
+    {
+      "product_id": "chizhik_bread_400",
+      "name": "Хлеб белый нарезной 400г",
+      "product": "хлеб",
+      "pack_size": 400,
+      "unit_count": null,
+      "price": 45.0,
+      "in_stock": true
+    },
+    {
+      "product_id": "chizhik_cucumber_500",
+      "name": "Огурцы гладкие 500г",
+      "product": "огурец",
+      "pack_size": 500,
+      "unit_count": null,
+      "price": 99.0,
+      "in_stock": true
+    },
+    {
+      "product_id": "chizhik_greens_50",
+      "name": "Зелень петрушка/укроп 50г",
+      "product": "зелень",
+      "pack_size": 50,
+      "unit_count": 1,
+      "price": 49.0,
+      "in_stock": true
+    },
+    {
+      "product_id": "chizhik_mayo_400",
+      "name": "Майонез Провансаль 400г",
+      "product": "майонез",
+      "pack_size": 400,
+      "unit_count": null,
+      "price": 89.0,
+      "in_stock": true
+    },
+    {
+      "product_id": "chizhik_mushrooms_400",
+      "name": "Шампиньоны свежие 400г",
+      "product": "грибы",
+      "pack_size": 400,
+      "unit_count": null,
+      "price": 129.0,
+      "in_stock": true
+    },
+    {
+      "product_id": "chizhik_zucchini_600",
+      "name": "Кабачок 600г",
+      "product": "кабачок",
+      "pack_size": 600,
+      "unit_count": null,
+      "price": 89.0,
+      "in_stock": true
+    },
+    {
+      "product_id": "chizhik_cabbage_1000",
+      "name": "Капуста белокочанная 1кг",
+      "product": "капуста",
+      "pack_size": 1000,
+      "unit_count": null,
+      "price": 39.0,
+      "in_stock": true
+    }
+  ]
+}
